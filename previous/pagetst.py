@@ -22,9 +22,9 @@ def timeoutById(element_selector,browser):
     except TimeoutException:
         print("Timed out waiting for page to load")
         
-def findElementById(id,browser):
-     element = browser.find_element_by_id(id)
-     return element
+def findElementById(id_,browser):
+    element = browser().find_element_by_id(id_)
+    return element
 
 def findElementByCSS(css,browser):
      element = browser.find_element_by_css_selector(css)

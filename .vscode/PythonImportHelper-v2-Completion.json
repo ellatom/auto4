@@ -1,0 +1,698 @@
+[
+    {
+        "label": "config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "config",
+        "description": "config",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "TimeoutException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TimeoutException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "pagetest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pagetest",
+        "description": "pagetest",
+        "detail": "pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "locators",
+        "description": "locators",
+        "isExtraImport": true,
+        "detail": "locators",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "locators",
+        "description": "locators",
+        "isExtraImport": true,
+        "detail": "locators",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "base_page",
+        "description": "base_page",
+        "isExtraImport": true,
+        "detail": "base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "base_page",
+        "description": "base_page",
+        "isExtraImport": true,
+        "detail": "base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "importPath": "base_page",
+        "description": "base_page",
+        "isExtraImport": true,
+        "detail": "base_page",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "users",
+        "description": "users",
+        "detail": "users",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "users",
+        "description": "users",
+        "isExtraImport": true,
+        "detail": "users",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "LoginPage",
+        "importPath": "login_page",
+        "description": "login_page",
+        "isExtraImport": true,
+        "detail": "login_page",
+        "documentation": {}
+    },
+    {
+        "label": "test_cases",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "test_cases",
+        "description": "test_cases",
+        "detail": "test_cases",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTest",
+        "importPath": "base_test",
+        "description": "base_test",
+        "isExtraImport": true,
+        "detail": "base_test",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "python-test.test.config",
+        "description": "python-test.test.config",
+        "peekOfCode": "user = \"standard_user\"\npassword = \"secret_sauce\"\nfinish_order_msg =\"Your order has been dispatched, and will arrive just as fast as the pony can get there!\"\nfinish_order = '#checkout_complete_container > div'\nfinish_btn ='#checkout_summary_container > div > div.summary_info > div.cart_footer > a.btn_action.cart_button'\nquantity = '#checkout_summary_container > div > div.cart_list > div.cart_item > div.summary_quantity'\nsum_totals ='#checkout_summary_container > div > div.summary_info > div.summary_subtotal_label'\ncheckout_btn='#cart_contents_container > div > div.cart_footer > a.btn_action.checkout_button'\ncart_items='#shopping_cart_container > a > span'\nhighest_product_remove='#cart_contents_container > div > div.cart_list > div:nth-child(3) > div.cart_item_label > div.item_pricebar > button'",
+        "detail": "python-test.test.config",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "python-test.test.config",
+        "description": "python-test.test.config",
+        "peekOfCode": "password = \"secret_sauce\"\nfinish_order_msg =\"Your order has been dispatched, and will arrive just as fast as the pony can get there!\"\nfinish_order = '#checkout_complete_container > div'\nfinish_btn ='#checkout_summary_container > div > div.summary_info > div.cart_footer > a.btn_action.cart_button'\nquantity = '#checkout_summary_container > div > div.cart_list > div.cart_item > div.summary_quantity'\nsum_totals ='#checkout_summary_container > div > div.summary_info > div.summary_subtotal_label'\ncheckout_btn='#cart_contents_container > div > div.cart_footer > a.btn_action.checkout_button'\ncart_items='#shopping_cart_container > a > span'\nhighest_product_remove='#cart_contents_container > div > div.cart_list > div:nth-child(3) > div.cart_item_label > div.item_pricebar > button'\ncart_icon ='#shopping_cart_container > a'",
+        "detail": "python-test.test.config",
+        "documentation": {}
+    },
+    {
+        "label": "finish_order",
+        "kind": 5,
+        "importPath": "python-test.test.config",
+        "description": "python-test.test.config",
+        "peekOfCode": "finish_order = '#checkout_complete_container > div'\nfinish_btn ='#checkout_summary_container > div > div.summary_info > div.cart_footer > a.btn_action.cart_button'\nquantity = '#checkout_summary_container > div > div.cart_list > div.cart_item > div.summary_quantity'\nsum_totals ='#checkout_summary_container > div > div.summary_info > div.summary_subtotal_label'\ncheckout_btn='#cart_contents_container > div > div.cart_footer > a.btn_action.checkout_button'\ncart_items='#shopping_cart_container > a > span'\nhighest_product_remove='#cart_contents_container > div > div.cart_list > div:nth-child(3) > div.cart_item_label > div.item_pricebar > button'\ncart_icon ='#shopping_cart_container > a'\ninventory_prices='#inventory_container > div > div:nth-child(n) > div.pricebar > div'\nadd_to_cart='#inventory_container > div > div:nth-child(1) > div.pricebar > button'",
+        "detail": "python-test.test.config",
+        "documentation": {}
+    },
+    {
+        "label": "quantity",
+        "kind": 5,
+        "importPath": "python-test.test.config",
+        "description": "python-test.test.config",
+        "peekOfCode": "quantity = '#checkout_summary_container > div > div.cart_list > div.cart_item > div.summary_quantity'\nsum_totals ='#checkout_summary_container > div > div.summary_info > div.summary_subtotal_label'\ncheckout_btn='#cart_contents_container > div > div.cart_footer > a.btn_action.checkout_button'\ncart_items='#shopping_cart_container > a > span'\nhighest_product_remove='#cart_contents_container > div > div.cart_list > div:nth-child(3) > div.cart_item_label > div.item_pricebar > button'\ncart_icon ='#shopping_cart_container > a'\ninventory_prices='#inventory_container > div > div:nth-child(n) > div.pricebar > div'\nadd_to_cart='#inventory_container > div > div:nth-child(1) > div.pricebar > button'\nsummary_cart='#checkout_summary_container > div > div.cart_list > div.cart_item > div.summary_quantity'\nexpected_price='7.99'",
+        "detail": "python-test.test.config",
+        "documentation": {}
+    },
+    {
+        "label": "init_driver",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def init_driver():\n    browser = webdriver.Chrome()\n    return browser\ndef navigateToUrl(browser):\n    return browser.get(config.url)\ndef timeoutById(element_selector,browser):\n    timeout = config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.ID,element_selector ))\n        WebDriverWait(browser, timeout).until(element_present)",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "navigateToUrl",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def navigateToUrl(browser):\n    return browser.get(config.url)\ndef timeoutById(element_selector,browser):\n    timeout = config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.ID,element_selector ))\n        WebDriverWait(browser, timeout).until(element_present)\n    except TimeoutException:\n        print(\"Timed out waiting for page to load\")\ndef findElementById(id_,browser):",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "timeoutById",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def timeoutById(element_selector,browser):\n    timeout = config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.ID,element_selector ))\n        WebDriverWait(browser, timeout).until(element_present)\n    except TimeoutException:\n        print(\"Timed out waiting for page to load\")\ndef findElementById(id_,browser):\n    element = browser().find_element_by_id(id_)\n    return element",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "findElementById",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def findElementById(id_,browser):\n    element = browser().find_element_by_id(id_)\n    return element\ndef findElementByCSS(css,browser):\n     element = browser.find_element_by_css_selector(css)\n     return element\ndef insertText(element,text):    \n    element.send_keys(text)\n    element.submit()\ndef timeoutByClass(element_selector,browser):",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "findElementByCSS",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def findElementByCSS(css,browser):\n     element = browser.find_element_by_css_selector(css)\n     return element\ndef insertText(element,text):    \n    element.send_keys(text)\n    element.submit()\ndef timeoutByClass(element_selector,browser):\n    timeout= config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.CLASS_NAME, element_selector ))",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "insertText",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def insertText(element,text):    \n    element.send_keys(text)\n    element.submit()\ndef timeoutByClass(element_selector,browser):\n    timeout= config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.CLASS_NAME, element_selector ))\n        WebDriverWait(browser, timeout).until(element_present)\n    except TimeoutException:\n        print(\"Timed out waiting for page to load\")",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "timeoutByClass",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def timeoutByClass(element_selector,browser):\n    timeout= config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.CLASS_NAME, element_selector ))\n        WebDriverWait(browser, timeout).until(element_present)\n    except TimeoutException:\n        print(\"Timed out waiting for page to load\")\ndef timeoutByCSS(element_selector,browser):\n    timeout = config.timeout\n    try:",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "timeoutByCSS",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def timeoutByCSS(element_selector,browser):\n    timeout = config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.CSS_SELECTOR,element_selector))\n        WebDriverWait(browser, timeout).until(element_present)\n    except TimeoutException:\n        print(\"Timed out waiting for page to load\")\ndef dropdownOptions(selector_name,value_o, browser):\n    select = Select(browser.find_element_by_class_name(selector_name))\n    # select by value -highest",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "dropdownOptions",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def dropdownOptions(selector_name,value_o, browser):\n    select = Select(browser.find_element_by_class_name(selector_name))\n    # select by value -highest\n    select.select_by_value(value_o)\ndef is_sorted(prices_list):\n    return all(prices_list[i] <= prices_list[i+1] for i in range(len(prices_list)-1))\ndef addItemPrices(inventory_prices):\n    prices_list = []\n    for item in inventory_prices:\n        prices_list.append(int(float(item.text.split(\"$\")[1])))",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "is_sorted",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def is_sorted(prices_list):\n    return all(prices_list[i] <= prices_list[i+1] for i in range(len(prices_list)-1))\ndef addItemPrices(inventory_prices):\n    prices_list = []\n    for item in inventory_prices:\n        prices_list.append(int(float(item.text.split(\"$\")[1])))\n    return prices_list\ndef closeBrowser(browser):\n    return browser.quit()",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "addItemPrices",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def addItemPrices(inventory_prices):\n    prices_list = []\n    for item in inventory_prices:\n        prices_list.append(int(float(item.text.split(\"$\")[1])))\n    return prices_list\ndef closeBrowser(browser):\n    return browser.quit()",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "closeBrowser",
+        "kind": 2,
+        "importPath": "python-test.test.pagetest",
+        "description": "python-test.test.pagetest",
+        "peekOfCode": "def closeBrowser(browser):\n    return browser.quit()",
+        "detail": "python-test.test.pagetest",
+        "documentation": {}
+    },
+    {
+        "label": "TestClass",
+        "kind": 6,
+        "importPath": "python-test.test.test_all",
+        "description": "python-test.test.test_all",
+        "peekOfCode": "class TestClass:\n    def test_order(self, _init_driver, test_open_browser,test_login):\n        assert order == [\"_init_driver\", \"test_open_browser\",\"test_login\"]\n# pagetest.timeoutByClass('product_sort_container',browser)\n# pagetest.dropdownOptions('product_sort_container','hilo',browser)\n# inventory_container = pagetest.findElementById('inventory_container',browser)\n# inventory_container.find_elements_by_css_selector(config.add_to_cart)[0].click()\n# assert inventory_container.find_elements_by_css_selector(config.add_to_cart)[0].text == \"REMOVE\"\n# print(\"highest added\")\n# pagetest.dropdownOptions('product_sort_container','lohi',browser)",
+        "detail": "python-test.test.test_all",
+        "documentation": {}
+    },
+    {
+        "label": "order",
+        "kind": 2,
+        "importPath": "python-test.test.test_all",
+        "description": "python-test.test.test_all",
+        "peekOfCode": "def order():\n    return []\n@pytest.fixture \ndef _init_driver():\n    browser = pagetest.init_driver()\n    return browser\n@pytest.fixture   \ndef test_open_browser(_init_driver):\n    pagetest.navigateToUrl(_init_driver)\n    pagetest.timeoutById('user-name',_init_driver)",
+        "detail": "python-test.test.test_all",
+        "documentation": {}
+    },
+    {
+        "label": "test_open_browser",
+        "kind": 2,
+        "importPath": "python-test.test.test_all",
+        "description": "python-test.test.test_all",
+        "peekOfCode": "def test_open_browser(_init_driver):\n    pagetest.navigateToUrl(_init_driver)\n    pagetest.timeoutById('user-name',_init_driver)\n@pytest.fixture \ndef test_login():\n    #  pytest.set_trace() \n    username= pagetest.findElementById('user-name',_init_driver)\n    pagetest.insertText(username, config.user)\n    password= pagetest.findElementById('password',_init_driver)\n    pagetest.insertText(password,config.password) ",
+        "detail": "python-test.test.test_all",
+        "documentation": {}
+    },
+    {
+        "label": "test_login",
+        "kind": 2,
+        "importPath": "python-test.test.test_all",
+        "description": "python-test.test.test_all",
+        "peekOfCode": "def test_login():\n    #  pytest.set_trace() \n    username= pagetest.findElementById('user-name',_init_driver)\n    pagetest.insertText(username, config.user)\n    password= pagetest.findElementById('password',_init_driver)\n    pagetest.insertText(password,config.password) \nclass TestClass:\n    def test_order(self, _init_driver, test_open_browser,test_login):\n        assert order == [\"_init_driver\", \"test_open_browser\",\"test_login\"]\n# pagetest.timeoutByClass('product_sort_container',browser)",
+        "detail": "python-test.test.test_all",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "kind": 6,
+        "importPath": "pythontest2.pages.base_page",
+        "description": "pythontest2.pages.base_page",
+        "peekOfCode": "class BasePage(object):\n    def __init__(self, driver,base_url):\n        self.base_url = base_url\n        self.driver = driver\n    def find_element(self, *locator):\n        return self.driver.find_element(*locator)\n    def navigateToUrl(self,driver):\n        self.driver.get(config.url)",
+        "detail": "pythontest2.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "LoginPage",
+        "kind": 6,
+        "importPath": "pythontest2.pages.login_page",
+        "description": "pythontest2.pages.login_page",
+        "peekOfCode": "class LoginPage(BasePage):\n    def __init__(self, driver):\n        self.locator = LoginPageLocators\n        super(LoginPage,self).__init__(driver)\n    def enter_username(self, username):\n        self.find_element(*self.locator.USERNAME).send_keys(username)\n    def enter_password(self, password):\n        self.find_element(*self.locator.PASSWORD).send_keys(password)\n    def login(self,username):\n        user = users.get_user(username)",
+        "detail": "pythontest2.pages.login_page",
+        "documentation": {}
+    },
+    {
+        "label": "BasePage",
+        "kind": 6,
+        "importPath": "pythontest2.base_page",
+        "description": "pythontest2.base_page",
+        "peekOfCode": "class BasePage(object):\n    def __init__(self, driver,base_url=config.url):\n        self.base_url = base_url\n        self.driver = driver\n    def find_element(self, *locator):\n        return self.driver.find_element(*locator)\n    # def timeoutById(self, *locator):\n    #     timeout = config.timeout\n    #     try:\n    #         element_present = EC.presence_of_element_located(*locator)",
+        "detail": "pythontest2.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTest",
+        "kind": 6,
+        "importPath": "pythontest2.base_test",
+        "description": "pythontest2.base_test",
+        "peekOfCode": "class BaseTest(unittest.TestCase):\n    def setUp(self):\n        self.driver = webdriver.Chrome()\n        self.driver.get(config.url)\n    # def tearDown(self):\n        # self.driver.close()\n        # pass\nif __name__  ==  \"__main__\":\n    suite = unittest.TestLoader().loadTestsFromTestCase(TestLoginInPage)\n    unittest.TextTestRunner(verbosity=1).run(suite)",
+        "detail": "pythontest2.base_test",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "pythontest2.config",
+        "description": "pythontest2.config",
+        "peekOfCode": "user = \"standard_user\"\npassword = \"secret_sauce\"\nfinish_order_msg =\"Your order has been dispatched, and will arrive just as fast as the pony can get there!\"\nfinish_order = '#checkout_complete_container > div'\nfinish_btn ='#checkout_summary_container > div > div.summary_info > div.cart_footer > a.btn_action.cart_button'\nquantity = '#checkout_summary_container > div > div.cart_list > div.cart_item > div.summary_quantity'\nsum_totals ='#checkout_summary_container > div > div.summary_info > div.summary_subtotal_label'\ncheckout_btn='#cart_contents_container > div > div.cart_footer > a.btn_action.checkout_button'\ncart_items='#shopping_cart_container > a > span'\nhighest_product_remove='#cart_contents_container > div > div.cart_list > div:nth-child(3) > div.cart_item_label > div.item_pricebar > button'",
+        "detail": "pythontest2.config",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "pythontest2.config",
+        "description": "pythontest2.config",
+        "peekOfCode": "password = \"secret_sauce\"\nfinish_order_msg =\"Your order has been dispatched, and will arrive just as fast as the pony can get there!\"\nfinish_order = '#checkout_complete_container > div'\nfinish_btn ='#checkout_summary_container > div > div.summary_info > div.cart_footer > a.btn_action.cart_button'\nquantity = '#checkout_summary_container > div > div.cart_list > div.cart_item > div.summary_quantity'\nsum_totals ='#checkout_summary_container > div > div.summary_info > div.summary_subtotal_label'\ncheckout_btn='#cart_contents_container > div > div.cart_footer > a.btn_action.checkout_button'\ncart_items='#shopping_cart_container > a > span'\nhighest_product_remove='#cart_contents_container > div > div.cart_list > div:nth-child(3) > div.cart_item_label > div.item_pricebar > button'\ncart_icon ='#shopping_cart_container > a'",
+        "detail": "pythontest2.config",
+        "documentation": {}
+    },
+    {
+        "label": "finish_order",
+        "kind": 5,
+        "importPath": "pythontest2.config",
+        "description": "pythontest2.config",
+        "peekOfCode": "finish_order = '#checkout_complete_container > div'\nfinish_btn ='#checkout_summary_container > div > div.summary_info > div.cart_footer > a.btn_action.cart_button'\nquantity = '#checkout_summary_container > div > div.cart_list > div.cart_item > div.summary_quantity'\nsum_totals ='#checkout_summary_container > div > div.summary_info > div.summary_subtotal_label'\ncheckout_btn='#cart_contents_container > div > div.cart_footer > a.btn_action.checkout_button'\ncart_items='#shopping_cart_container > a > span'\nhighest_product_remove='#cart_contents_container > div > div.cart_list > div:nth-child(3) > div.cart_item_label > div.item_pricebar > button'\ncart_icon ='#shopping_cart_container > a'\ninventory_prices='#inventory_container > div > div:nth-child(n) > div.pricebar > div'\nadd_to_cart='#inventory_container > div > div:nth-child(1) > div.pricebar > button'",
+        "detail": "pythontest2.config",
+        "documentation": {}
+    },
+    {
+        "label": "quantity",
+        "kind": 5,
+        "importPath": "pythontest2.config",
+        "description": "pythontest2.config",
+        "peekOfCode": "quantity = '#checkout_summary_container > div > div.cart_list > div.cart_item > div.summary_quantity'\nsum_totals ='#checkout_summary_container > div > div.summary_info > div.summary_subtotal_label'\ncheckout_btn='#cart_contents_container > div > div.cart_footer > a.btn_action.checkout_button'\ncart_items='#shopping_cart_container > a > span'\nhighest_product_remove='#cart_contents_container > div > div.cart_list > div:nth-child(3) > div.cart_item_label > div.item_pricebar > button'\ncart_icon ='#shopping_cart_container > a'\ninventory_prices='#inventory_container > div > div:nth-child(n) > div.pricebar > div'\nadd_to_cart='#inventory_container > div > div:nth-child(1) > div.pricebar > button'\nsummary_cart='#checkout_summary_container > div > div.cart_list > div.cart_item > div.summary_quantity'\nexpected_price='7.99'",
+        "detail": "pythontest2.config",
+        "documentation": {}
+    },
+    {
+        "label": "LoginPageLocators",
+        "kind": 6,
+        "importPath": "pythontest2.locators",
+        "description": "pythontest2.locators",
+        "peekOfCode": "class LoginPageLocators(object):\n    USERNAME = (By.ID, 'user-name')\n    PASSWORD = (By.ID, 'password')\n    BTN_LOGIN = (By.ID, 'login-button')\n    INVENTORY_DROPDOWN = (By.CLASS_NAME, 'product_sort_container')\n#class AnotherPageLocators(object):",
+        "detail": "pythontest2.locators",
+        "documentation": {}
+    },
+    {
+        "label": "LoginPage",
+        "kind": 6,
+        "importPath": "pythontest2.login_page",
+        "description": "pythontest2.login_page",
+        "peekOfCode": "class LoginPage(BasePage):\n    def __init__(self, driver,base_url):\n        self.locator = LoginPageLocators\n        super().__init__(driver,base_url)\n    def enter_username(self, username):\n        self.find_element(*self.locator.USERNAME).send_keys(username)\n    def enter_password(self, password):\n        self.find_element(*self.locator.PASSWORD).send_keys(password)\n    def click_btn_login(self):\n        self.find_element(*self.locator.BTN_LOGIN).click()",
+        "detail": "pythontest2.login_page",
+        "documentation": {}
+    },
+    {
+        "label": "init_driver",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def init_driver():\n    browser = webdriver.Chrome()\n    return browser\ndef navigateToUrl(browser):\n    return browser.get(config.url)\ndef timeoutById(element_selector,browser):\n    timeout = config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.ID,element_selector ))\n        WebDriverWait(browser, timeout).until(element_present)",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "navigateToUrl",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def navigateToUrl(browser):\n    return browser.get(config.url)\ndef timeoutById(element_selector,browser):\n    timeout = config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.ID,element_selector ))\n        WebDriverWait(browser, timeout).until(element_present)\n    except TimeoutException:\n        print(\"Timed out waiting for page to load\")\ndef findElementById(id_,browser):",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "timeoutById",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def timeoutById(element_selector,browser):\n    timeout = config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.ID,element_selector ))\n        WebDriverWait(browser, timeout).until(element_present)\n    except TimeoutException:\n        print(\"Timed out waiting for page to load\")\ndef findElementById(id_,browser):\n    element = browser().find_element_by_id(id_)\n    return element",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "findElementById",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def findElementById(id_,browser):\n    element = browser().find_element_by_id(id_)\n    return element\ndef findElementByCSS(css,browser):\n     element = browser.find_element_by_css_selector(css)\n     return element\ndef insertText(element,text):    \n    element.send_keys(text)\n    element.submit()\ndef timeoutByClass(element_selector,browser):",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "findElementByCSS",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def findElementByCSS(css,browser):\n     element = browser.find_element_by_css_selector(css)\n     return element\ndef insertText(element,text):    \n    element.send_keys(text)\n    element.submit()\ndef timeoutByClass(element_selector,browser):\n    timeout= config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.CLASS_NAME, element_selector ))",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "insertText",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def insertText(element,text):    \n    element.send_keys(text)\n    element.submit()\ndef timeoutByClass(element_selector,browser):\n    timeout= config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.CLASS_NAME, element_selector ))\n        WebDriverWait(browser, timeout).until(element_present)\n    except TimeoutException:\n        print(\"Timed out waiting for page to load\")",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "timeoutByClass",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def timeoutByClass(element_selector,browser):\n    timeout= config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.CLASS_NAME, element_selector ))\n        WebDriverWait(browser, timeout).until(element_present)\n    except TimeoutException:\n        print(\"Timed out waiting for page to load\")\ndef timeoutByCSS(element_selector,browser):\n    timeout = config.timeout\n    try:",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "timeoutByCSS",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def timeoutByCSS(element_selector,browser):\n    timeout = config.timeout\n    try:\n        element_present = EC.presence_of_element_located((By.CSS_SELECTOR,element_selector))\n        WebDriverWait(browser, timeout).until(element_present)\n    except TimeoutException:\n        print(\"Timed out waiting for page to load\")\ndef dropdownOptions(selector_name,value_o, browser):\n    select = Select(browser.find_element_by_class_name(selector_name))\n    # select by value -highest",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "dropdownOptions",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def dropdownOptions(selector_name,value_o, browser):\n    select = Select(browser.find_element_by_class_name(selector_name))\n    # select by value -highest\n    select.select_by_value(value_o)\ndef is_sorted(prices_list):\n    return all(prices_list[i] <= prices_list[i+1] for i in range(len(prices_list)-1))\ndef addItemPrices(inventory_prices):\n    prices_list = []\n    for item in inventory_prices:\n        prices_list.append(int(float(item.text.split(\"$\")[1])))",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "is_sorted",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def is_sorted(prices_list):\n    return all(prices_list[i] <= prices_list[i+1] for i in range(len(prices_list)-1))\ndef addItemPrices(inventory_prices):\n    prices_list = []\n    for item in inventory_prices:\n        prices_list.append(int(float(item.text.split(\"$\")[1])))\n    return prices_list\ndef closeBrowser(browser):\n    return browser.quit()",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "addItemPrices",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def addItemPrices(inventory_prices):\n    prices_list = []\n    for item in inventory_prices:\n        prices_list.append(int(float(item.text.split(\"$\")[1])))\n    return prices_list\ndef closeBrowser(browser):\n    return browser.quit()",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "closeBrowser",
+        "kind": 2,
+        "importPath": "pythontest2.pagetst",
+        "description": "pythontest2.pagetst",
+        "peekOfCode": "def closeBrowser(browser):\n    return browser.quit()",
+        "detail": "pythontest2.pagetst",
+        "documentation": {}
+    },
+    {
+        "label": "test_cases",
+        "kind": 2,
+        "importPath": "pythontest2.test_cases",
+        "description": "pythontest2.test_cases",
+        "peekOfCode": "def test_cases(number):\n    return testCases[number]\ntestCases = [\n    # [severity, description]\n    ['Blocker', 'user navigate, page should be loaded'],\n    ['Blocker', 'sign in with valid login details, user logged'],\n]",
+        "detail": "pythontest2.test_cases",
+        "documentation": {}
+    },
+    {
+        "label": "testCases",
+        "kind": 5,
+        "importPath": "pythontest2.test_cases",
+        "description": "pythontest2.test_cases",
+        "peekOfCode": "testCases = [\n    # [severity, description]\n    ['Blocker', 'user navigate, page should be loaded'],\n    ['Blocker', 'sign in with valid login details, user logged'],\n]",
+        "detail": "pythontest2.test_cases",
+        "documentation": {}
+    },
+    {
+        "label": "TestLoginInPage",
+        "kind": 6,
+        "importPath": "pythontest2.test_sign_in_page",
+        "description": "pythontest2.test_sign_in_page",
+        "peekOfCode": "class TestLoginInPage(BaseTest):\n    def test_sign_in_with_valid_user(self):\n        # print(\"\\n\" + str(test_cases[1]))\n        login_page = LoginPage(self.driver,config.url)\n        result = login_page.login_with_valid_user(\"standard_user\")\n        self.assertIn(\"1\", \"1\")",
+        "detail": "pythontest2.test_sign_in_page",
+        "documentation": {}
+    },
+    {
+        "label": "TestClass",
+        "kind": 6,
+        "importPath": "pythontest2.tst_all",
+        "description": "pythontest2.tst_all",
+        "peekOfCode": "class TestClass:\n    def test_order(self, _init_driver, test_open_browser,test_login):\n        assert order == [\"_init_driver\", \"test_open_browser\",\"test_login\"]\n# pagetest.timeoutByClass('product_sort_container',browser)\n# pagetest.dropdownOptions('product_sort_container','hilo',browser)\n# inventory_container = pagetest.findElementById('inventory_container',browser)\n# inventory_container.find_elements_by_css_selector(config.add_to_cart)[0].click()\n# assert inventory_container.find_elements_by_css_selector(config.add_to_cart)[0].text == \"REMOVE\"\n# print(\"highest added\")\n# pagetest.dropdownOptions('product_sort_container','lohi',browser)",
+        "detail": "pythontest2.tst_all",
+        "documentation": {}
+    },
+    {
+        "label": "test_open_browser",
+        "kind": 2,
+        "importPath": "pythontest2.tst_all",
+        "description": "pythontest2.tst_all",
+        "peekOfCode": "def test_open_browser(_init_driver):\n    pagetest.navigateToUrl(_init_driver)\n    pagetest.timeoutById('user-name',_init_driver)\n@pytest.fixture \ndef test_login():\n    #  pytest.set_trace() \n    username= pagetest.findElementById('user-name',_init_driver)\n    pagetest.insertText(username, config.user)\n    password= pagetest.findElementById('password',_init_driver)\n    pagetest.insertText(password,config.password) ",
+        "detail": "pythontest2.tst_all",
+        "documentation": {}
+    },
+    {
+        "label": "test_login",
+        "kind": 2,
+        "importPath": "pythontest2.tst_all",
+        "description": "pythontest2.tst_all",
+        "peekOfCode": "def test_login():\n    #  pytest.set_trace() \n    username= pagetest.findElementById('user-name',_init_driver)\n    pagetest.insertText(username, config.user)\n    password= pagetest.findElementById('password',_init_driver)\n    pagetest.insertText(password,config.password) \nclass TestClass:\n    def test_order(self, _init_driver, test_open_browser,test_login):\n        assert order == [\"_init_driver\", \"test_open_browser\",\"test_login\"]\n# pagetest.timeoutByClass('product_sort_container',browser)",
+        "detail": "pythontest2.tst_all",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "pythontest2.users",
+        "description": "pythontest2.users",
+        "peekOfCode": "def get_user(name):\n    try:\n        return next(user for user in users if user[\"username\"] == name)\n    except:\n        print(\"User %s is not valid\" % name)",
+        "detail": "pythontest2.users",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "kind": 5,
+        "importPath": "pythontest2.users",
+        "description": "pythontest2.users",
+        "peekOfCode": "users = [\n    {\"username\": \"standard_user\", \"password\": \"secret_sauce\"},\n    {\"username\": \"locked_out_user\", \"password\": \"secret_sauce\"},\n]\ndef get_user(name):\n    try:\n        return next(user for user in users if user[\"username\"] == name)\n    except:\n        print(\"User %s is not valid\" % name)",
+        "detail": "pythontest2.users",
+        "documentation": {}
+    }
+]
