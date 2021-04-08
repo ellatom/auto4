@@ -1,11 +1,12 @@
 import sys  
-sys.path.append('pythontest2/utils')  
+sys.path += ['/utils','/pages','/tests'] 
+
 from utils import config 
+from pages.login_page import LoginPage
+from tests.base_test import BaseTest
+from tests import test_cases
 
 import unittest
-from login_page import LoginPage
-import test_cases
-from base_test import BaseTest
 
 # I am using python unittest for asserting cases.
 # In this module, there should be test cases.
@@ -19,6 +20,7 @@ class TestLoginInPage(BaseTest):
         result = login_page.login_with_valid_user("standard_user")
         self.assertIn("1", "1")
     
-
+    # def test_dropdown(self):
+    #     pagetest.dropdownOptions('product_sort_container','hilo',self.driver)
 
 

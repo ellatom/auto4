@@ -1,7 +1,10 @@
+import sys
+sys.path += ['/utils','/pages']
+from utils import config
+from pages import base_page
+
 import unittest
 from selenium import webdriver
-from base_page import BasePage
-import config
 
 #python -m unittest
 # I am using python unittest for asserting cases.
