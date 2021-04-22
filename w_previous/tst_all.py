@@ -44,11 +44,11 @@ class TestClass:
 # inventory_container.find_elements_by_css_selector(config.add_to_cart)[0].click()
 # assert inventory_container.find_elements_by_css_selector(config.add_to_cart)[0].text == "REMOVE"
 # print("highest added")
-
+#skippping this
 # pagetest.dropdownOptions('product_sort_container','lohi',browser)
 # # select by value -lowest
 
-
+#?
 # inventory_container = pagetest.findElementById('inventory_container',browser)
 # inventory_prices =inventory_container.find_elements_by_css_selector(config.inventory_prices)
 

@@ -4,6 +4,8 @@ def test_cases(number):
 
 testCases = [
     # [severity, description]
-    ['Blocker', 'user navigate, page should be loaded'],
-    ['Blocker', 'sign in with valid login details, user logged'],
+    ['Blocker', 'sign in with valid user'],
+    ['Blocker', 'sign in with invalid user'],
+    ['Blocker', 'sort dropdown highest to lowest'],
+    ['Blocker', 'add highest price prduct to cart'],
 ]

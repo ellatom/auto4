@@ -4,11 +4,12 @@
        "name": "Python: Current File",
        "type": "python",
        "request": "launch",
-       "program": "${workspaceFolder}/pythontest2",
+      //  "module": "${workspaceFolder}",
+       "program": "${workspaceFolder}/tests/base_test.py",
          "args": [
-         "${workspaceFolder}/pythontest2",
+         "${workspaceFolder}/pages",
          ],
-         "cwd": "${workspaceRoot}/pythontest2",
+         "cwd": "${workspaceRoot}",
          "internalConsoleOptions": "openOnSessionStart"
      }
    ]

@@ -9,3 +9,5 @@ def get_user(name):
         return next(user for user in users if user["username"] == name)
     except:
         print("User %s is not valid" % name)
+
+

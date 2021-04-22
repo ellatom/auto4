@@ -1,9 +1,19 @@
 {
     "mocha.enabled": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+     // Enable word based suggestions
+     "editor.wordBasedSuggestions": true,
+
+     // Enable parameter hints
+     "editor.parameterHints.enabled": true,
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        ".",
+        "./tests",
         "-p",
         "*test*.py"
     ],
